@@ -6,10 +6,10 @@ namespace MadLibz.Controllers
   public class HomeController : Controller
   {
     [Route("/")]
-    [Route("/form")]
-    public ActionResult Form() { return View(); }
+    [Route("/OSayForm")]
+    public ActionResult OSayForm() { return View(); }
     [Route("MadLib")]
-    public ActionResult Osay(string noun1, string verb1)
+    public ActionResult OSay(string noun1, string verb1)
     {
       OSayVariable myOSayVariable = new OSayVariable();
       myOSayVariable.Noun1 = noun1;

@@ -14,7 +14,6 @@
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.TagHelpers.input.cache
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.TagHelpers.output.cache
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.RazorCoreGenerate.cache
-/Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/Form.g.cshtml.cs
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.RazorTargetAssemblyInfo.cache
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.RazorTargetAssemblyInfo.cs
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.Views.pdb
@@ -22,3 +21,4 @@
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.pdb
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.csproj.CopyComplete
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/OSay.g.cshtml.cs
+/Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/OSayForm.g.cshtml.cs

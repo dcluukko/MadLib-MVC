@@ -12,7 +12,7 @@ namespace Madlibz.Models
     public string PuralNoun3 {get; set;}
     public string VerbIng {get; set;}
     public string Color {get; set;}
-    public string PluralNoun3 {get; set;}
+    public string PluralNoun4 {get; set;}
     public string Noun2 {get; set;}
     public string Noun3 {get; set;}
     public string Interjection {get; set;}
@@ -20,6 +20,5 @@ namespace Madlibz.Models
     public string Verb2 {get; set;}
     public string Adjective3 {get; set;}
     public string Adjective4 {get; set;}
-
   }
 }
