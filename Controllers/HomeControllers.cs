@@ -9,12 +9,12 @@ namespace MadLibz.Controllers
     [Route("/form")]
     public ActionResult Form() { return View(); }
     [Route("MadLib")]
-    public ActionResult MadLib(string noun, string verb)
+    public ActionResult Osay(string noun1, string verb1)
     {
-      MadLibVariable myMadLibVariable = new MadLibVariable();
-      myMadLibVariable.Noun = noun;
-      myMadLibVariable.Verb = verb;
-      return View(myMadLibVariable);
+      OSayVariable myOSayVariable = new OSayVariable();
+      myOSayVariable.Noun1 = noun1;
+      myOSayVariable.Verb1 = verb1;
+      return View(myOSayVariable);
     }
   }
 }
