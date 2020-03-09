@@ -8,7 +8,7 @@ namespace MadLibz.Controllers
     [Route("/")]
     [Route("/OSayForm")]
     public ActionResult OSayForm() { return View(); }
-    [Route("MadLib")]
+    [Route("/OSay")]
     public ActionResult OSay(string verb1, string noun1, string adverb, string verbPast, string pluralNoun1, string pluralNoun2, string adjective1, string pluralNoun3, string verbIng, string color, string pluralNoun4, string noun2, string noun3, string interjection, string adjective2, string verb2, string adjective3, string adjective4)
     {
       OSayVariable myOSayVariable = new OSayVariable();
