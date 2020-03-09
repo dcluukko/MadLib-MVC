@@ -22,3 +22,6 @@
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/MadLibz.csproj.CopyComplete
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/OSay.g.cshtml.cs
 /Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/OSayForm.g.cshtml.cs
+/Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/Story.g.cshtml.cs
+/Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/StoryForm.g.cshtml.cs
+/Users/danaluukko/Desktop/MadLibz.Solution/MadLibz/obj/Debug/netcoreapp2.2/Razor/Views/Home/Home.g.cshtml.cs
